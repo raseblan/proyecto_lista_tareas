@@ -1,9 +1,11 @@
-📋 Proyecto Lista de Tareas
-Un proyecto simple desarrollado por mí donde se puede ver el uso de:
-✅ Formularios 📄
-✅ Componentes ⚛️
-✅ LocalStorage 💾
-✅ Hooks de React 🎣
+# 📋 Proyecto Lista de Tareas  
+
+Un proyecto simple desarrollado por mí donde se puede ver el uso de:  
+
+✅ Formularios 📄  
+✅ Componentes ⚛️  
+✅ LocalStorage 💾  
+✅ Hooks de React 🎣  
 
 # Pasos a seguir para instalar el proyecto
 # Clonar el repositorio
