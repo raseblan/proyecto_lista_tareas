@@ -5,7 +5,7 @@ Un proyecto simple desarrollado por mí donde se puede ver el uso de:
 ✅ LocalStorage 💾
 ✅ Hooks de React 🎣
 
-Pasos a seguir para instalar el proyecto
+# Pasos a seguir para instalar el proyecto
 # Clonar el repositorio
 git clone <link del proyecto>
 
