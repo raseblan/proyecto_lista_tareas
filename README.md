@@ -1,10 +1,19 @@
-Proyecto Lista Tareas
-Un proyecto muy simple desarrollado por mi donde se puede ver el conocimiento de: el uso de formularios, de componentes, de LocalStorage y de los hooks.
+📋 Proyecto Lista de Tareas
+Un proyecto simple desarrollado por mí donde se puede ver el uso de:
+✅ Formularios 📄
+✅ Componentes ⚛️
+✅ LocalStorage 💾
+✅ Hooks de React 🎣
 
-Pasos para instalar:
-Clonar el proyecto con el siguiente comando:
+Pasos a seguir para instalar el proyecto
+# Clonar el repositorio
 git clone <link del proyecto>
-cd proyecto_lista_tareas
-npm install
-npm start
 
+# Ir al directorio del proyecto
+cd proyecto_lista_tareas
+
+# Instalar dependencias
+npm install
+
+# Iniciar la aplicación
+npm start
